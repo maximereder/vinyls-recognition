@@ -1,8 +1,6 @@
 The Vinymatic Image Recognition App is an application designed to provide image recognition services. The app uses the SIFT algorithm to extract features from images, and Faiss for indexing and searching through the feature vectors.
 
-<div style="text-align:center;">
-  <img src="pictures/vinyl_recognition_visual.gif" alt="Your Alt Text" width="30%">
-</div>
+![vinyl_recognition_visual](pictures/vinyl_recognition_visual.gif)
 
 The app is composed of three services:
 
